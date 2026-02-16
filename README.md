@@ -2,7 +2,7 @@
 
 This repository contains the projects completed during my Data Science Internship at **Elevvo**. I have implemented 3 comprehensive Machine Learning tasks, including mandatory requirements and bonus challenges.
 
-## 🛠️ Tasks Overview
+##  Tasks Overview
 
 ### Task 1: Student Score Prediction (Regression)
 * **Goal:** Predict exam scores based on study hours.
@@ -19,14 +19,14 @@ This repository contains the projects completed during my Data Science Internshi
 * **Model:** **XGBoost & Random Forest (Bonus)**.
 * **Key Highlights:** Handling categorical data, confusion matrix visualization, and feature importance analysis.
 
-## 🚀 Technologies Used
+## Technologies Used
 - Python (Pandas, NumPy)
 - Scikit-learn
 - XGBoost
 - Matplotlib & Seaborn
 - Streamlit (for Dashboard/UI)
 
-## 📂 Project Structure
+##  Project Structure
 - `Task_1_Regression/`: Notebook and Dataset
 - `Task_2_Clustering/`: Streamlit App (`app.py`) and Mall_Customers.csv
 - `Task_3_Classification/`: Classification Model and Evaluation
