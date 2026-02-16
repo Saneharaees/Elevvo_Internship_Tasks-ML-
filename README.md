@@ -1,32 +1,71 @@
-# Elevvo Data Science Internship - Level 2 Tasks
 
-This repository contains the projects completed during my Data Science Internship at **Elevvo**. I have implemented 3 comprehensive Machine Learning tasks, including mandatory requirements and bonus challenges.
+---
 
 ##  Tasks Overview
 
-### Task 1: Student Score Prediction (Regression)
-* **Goal:** Predict exam scores based on study hours.
-* **Model:** Linear Regression & **Polynomial Regression (Bonus)**.
-* **Key Highlights:** Data cleaning, visualization, and performance evaluation using R² score and MSE.
+### **Task 1 – Student Score Prediction (Regression)**  
+**Goal:** Predict student exam scores based on academic and lifestyle factors.  
+**Models:** Linear Regression, Polynomial Regression (Bonus)  
+**Key Highlights:**  
+- Data cleaning & visualization  
+- Feature analysis & correlation exploration  
+- Real-time prediction UI using **Streamlit**  
+- Performance evaluation (R² score ≈ 60%)  
 
-### Task 2: Customer Segmentation (Clustering)
-* **Goal:** Group mall customers based on Annual Income and Spending Score.
-* **Algorithms:** K-Means (Optimal K found via Elbow Method) & **DBSCAN (Bonus)**.
-* **Key Highlights:** Feature scaling, interactive Streamlit UI, and average spending analysis per cluster.
+**Demo Video (LinkedIn):**  
+🔗 [Watch Here](https://www.linkedin.com/posts/YOUR-LINK-HERE)  
 
-### Task 3: Forest Cover Type Classification (Classification)
-* **Goal:** Multi-class classification to predict forest cover types.
-* **Model:** **XGBoost & Random Forest (Bonus)**.
-* **Key Highlights:** Handling categorical data, confusion matrix visualization, and feature importance analysis.
+---
 
-## Technologies Used
-- Python (Pandas, NumPy)
-- Scikit-learn
-- XGBoost
-- Matplotlib & Seaborn
-- Streamlit (for Dashboard/UI)
+### **Task 2 – Customer Segmentation (Clustering)**  
+**Goal:** Group mall customers based on annual income and spending score.  
+**Algorithms:** K-Means (Optimal K via Elbow Method), DBSCAN (Bonus)  
+**Key Highlights:**  
+- Feature scaling & visualization  
+- Interactive Streamlit dashboard  
+- Cluster analysis & average spending insights  
+- K-Means & DBSCAN comparison  
 
-##  Project Structure
-- `Task_1_Regression/`: Notebook and Dataset
-- `Task_2_Clustering/`: Streamlit App (`app.py`) and Mall_Customers.csv
-- `Task_3_Classification/`: Classification Model and Evaluation
+**Demo Video (LinkedIn):**  
+🔗 [Watch Here](https://www.linkedin.com/posts/YOUR-LINK-HERE)  
+
+---
+
+### **Task 3 – Forest Cover Type Classification (Classification)**  
+**Goal:** Predict forest cover types based on cartographic variables.  
+**Models:** Random Forest, XGBoost  
+**Key Highlights:**  
+- Multi-class classification with large dataset (581,012 samples, 54 features)  
+- Feature importance visualization  
+- Confusion matrix & per-class evaluation  
+- Real-time prediction dashboard using Streamlit  
+
+**Performance Metrics:**  
+| Model          | Accuracy |
+|----------------|---------|
+| Random Forest  | 88.91%  |
+| XGBoost        | 80.90%  |
+
+**Demo Video (LinkedIn):**  
+🔗 [Watch Here](https://www.linkedin.com/posts/YOUR-LINK-HERE)  
+
+---
+
+##  Technologies Used
+
+- **Programming & Data Processing:** Python, Pandas, NumPy  
+- **Machine Learning & Modeling:** Scikit-learn, XGBoost  
+- **Visualization:** Matplotlib, Seaborn, Plotly  
+- **Web Apps & Dashboards:** Streamlit  
+
+---
+
+##  Key Learnings
+
+- Implemented **end-to-end ML pipelines** from data preprocessing to deployment  
+- Built **interactive dashboards** for regression, classification, and clustering tasks  
+- Evaluated model performance using metrics like **R², MSE, Accuracy, Confusion Matrix**  
+- Compared model performances and implemented **bonus ML techniques** (Polynomial Regression & DBSCAN)  
+
+---
+
