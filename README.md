@@ -13,7 +13,7 @@
 - Performance evaluation (R² score ≈ 60%)  
 
 **Demo Video (LinkedIn):**  
-🔗 [Watch Here](https://www.linkedin.com/posts/YOUR-LINK-HERE)  
+🔗 [Watch Here]([https://www.linkedin.com/posts/YOUR-LINK-HERE](https://www.linkedin.com/posts/saneha-raees-68a699275_elevvopathways-machinelearning-streamlit-activity-7429304485472264192-2YS5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMy8YoBtdfddZWq-v_zAhjtdpTSkWi0vwg))  
 
 ---
 
@@ -27,7 +27,7 @@
 - K-Means & DBSCAN comparison  
 
 **Demo Video (LinkedIn):**  
-🔗 [Watch Here](https://www.linkedin.com/posts/YOUR-LINK-HERE)  
+🔗 [Watch Here]([https://www.linkedin.com/posts/YOUR-LINK-HERE](https://www.linkedin.com/posts/saneha-raees-68a699275_elevvopathways-machinelearning-clustering-activity-7429305355207221248-b9NV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMy8YoBtdfddZWq-v_zAhjtdpTSkWi0vwg))  
 
 ---
 
@@ -47,7 +47,7 @@
 | XGBoost        | 80.90%  |
 
 **Demo Video (LinkedIn):**  
-🔗 [Watch Here](https://www.linkedin.com/posts/YOUR-LINK-HERE)  
+🔗 [Watch Here]([https://www.linkedin.com/posts/YOUR-LINK-HERE](https://www.linkedin.com/posts/saneha-raees-68a699275_elevvopathways-machinelearning-classification-activity-7429306402701185024-WnxQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMy8YoBtdfddZWq-v_zAhjtdpTSkWi0vwg))  
 
 ---
 
